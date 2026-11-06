@@ -1,0 +1,87 @@
+{
+  "_comment": "Single source for company details, links, pricing and feature flags. Every value marked PLACEHOLDER must be replaced before launch.",
+  "brand": {
+    "name": "Selo",
+    "productName": "Selo: WhatsApp Updater",
+    "tagline": "WhatsApp that sells, answers and reports, built for Shopify.",
+    "description": "Selo connects your Shopify store to WhatsApp: automated order updates, campaigns that drive sales, an AI assistant that answers from your real store data, and a copilot you can text."
+  },
+  "company": {
+    "legalName": "Selo Technologies Ltd.",
+    "website": "https://www.selo.example",
+    "appListing": "https://apps.shopify.com/selo",
+    "helpCentre": "https://help.selo.example",
+    "emails": {
+      "general": "hello@selo.example",
+      "sales": "sales@selo.example",
+      "support": "support@selo.example",
+      "partners": "partners@selo.example",
+      "press": "press@selo.example",
+      "privacy": "privacy@selo.example",
+      "security": "security@selo.example"
+    },
+    "phones": {
+      "sales": "+1 (555) 010-2000",
+      "support": "+1 (555) 010-2001",
+      "whatsapp": "+1 555 010 2000",
+      "whatsappDigits": "15550102000"
+    },
+    "address": {
+      "street": "100 Example Street, Suite 200",
+      "city": "Springfield",
+      "region": "EX",
+      "postalCode": "00000",
+      "country": "United States",
+      "countryCode": "US"
+    },
+    "supportHours": "Monday to Friday, 08:00–20:00 UTC",
+    "founded": "2025",
+    "companyNumber": "[to be added]",
+    "social": {
+      "linkedin": "https://www.linkedin.com/company/selo-example",
+      "x": "https://x.com/selo_example",
+      "youtube": "https://www.youtube.com/@selo-example",
+      "instagram": "https://www.instagram.com/selo.example"
+    },
+    "schedulingUrl": "",
+    "_schedulingUrl": "PLACEHOLDER: Calendly or Cal.com link. Empty = link to the demo form instead."
+  },
+  "forms": {
+    "endpoint": "",
+    "_endpoint": "PLACEHOLDER: form handler URL. Overridden by the FORM_ENDPOINT environment variable. Empty = demo mode (shows the success message, sends nothing).",
+    "turnstileSiteKey": "",
+    "_turnstileSiteKey": "PLACEHOLDER: Cloudflare Turnstile site key. Empty = honeypot only."
+  },
+  "analytics": {
+    "provider": "plausible",
+    "domain": "selo.example",
+    "_comment": "Loaded only after the visitor accepts analytics cookies. provider: plausible | ga4 | none. For ga4 set measurementId.",
+    "measurementId": ""
+  },
+  "trial": {
+    "days": 14,
+    "noCardToStart": true
+  },
+  "pricing": {
+    "currency": "USD",
+    "annualMonthsFree": 2,
+    "plans": [
+      { "id": "growth", "name": "Growth", "monthly": 19, "for": "Stores starting with WhatsApp", "contacts": "Up to 2,500", "aiUsage": "Light", "support": "Email" },
+      { "id": "pro", "name": "Pro", "monthly": 49, "for": "Growing stores running campaigns", "contacts": "Up to 25,000", "aiUsage": "Standard", "support": "Email & chat", "popular": true },
+      { "id": "ai", "name": "AI", "monthly": 99, "for": "Stores that want AI customer service", "contacts": "Unlimited", "aiUsage": "High", "support": "Priority chat" }
+    ]
+  },
+  "announcement": {
+    "enabled": true,
+    "id": "copilot-2026-11",
+    "text": "New: text your store on WhatsApp with Selo Copilot",
+    "route": "/features/copilot"
+  },
+  "features": {
+    "voiceNotes": false,
+    "codRiskScoring": false,
+    "addressFixer": false,
+    "copilotDailySummary": false,
+    "showComingSoon": false
+  }
+}

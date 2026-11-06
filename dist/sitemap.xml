@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url><loc>https://www.selo.example/</loc><xhtml:link rel="alternate" hreflang="en" href="https://www.selo.example/"/><lastmod>2026-11-06</lastmod><priority>1.0</priority></url>
+  <url><loc>https://www.selo.example/features/</loc><xhtml:link rel="alternate" hreflang="en" href="https://www.selo.example/features/"/><lastmod>2026-11-06</lastmod><priority>0.9</priority></url>
+  <url><loc>https://www.selo.example/features/automations/</loc><xhtml:link rel="alternate" hreflang="en" href="https://www.selo.example/features/automations/"/><lastmod>2026-11-06</lastmod><priority>0.8</priority></url>
+  <url><loc>https://www.selo.example/features/campaigns/</loc><xhtml:link rel="alternate" hreflang="en" href="https://www.selo.example/features/campaigns/"/><lastmod>2026-11-06</lastmod><priority>0.8</priority></url>
+  <url><loc>https://www.selo.example/features/ai-assistant/</loc><xhtml:link rel="alternate" hreflang="en" href="https://www.selo.example/features/ai-assistant/"/><lastmod>2026-11-06</lastmod><priority>0.8</priority></url>
+  <url><loc>https://www.selo.example/features/copilot/</loc><xhtml:link rel="alternate" hreflang="en" href="https://www.selo.example/features/copilot/"/><lastmod>2026-11-06</lastmod><priority>0.8</priority></url>
+  <url><loc>https://www.selo.example/features/analytics/</loc><xhtml:link rel="alternate" hreflang="en" href="https://www.selo.example/features/analytics/"/><lastmod>2026-11-06</lastmod><priority>0.8</priority></url>
+  <url><loc>https://www.selo.example/features/quality/</loc><xhtml:link rel="alternate" hreflang="en" href="https://www.selo.example/features/quality/"/><lastmod>2026-11-06</lastmod><priority>0.8</priority></url>
+  <url><loc>https://www.selo.example/pricing/</loc><xhtml:link rel="alternate" hreflang="en" href="https://www.selo.example/pricing/"/><lastmod>2026-11-06</lastmod><priority>0.9</priority></url>
+  <url><loc>https://www.selo.example/how-it-works/</loc><xhtml:link rel="alternate" hreflang="en" href="https://www.selo.example/how-it-works/"/><lastmod>2026-11-06</lastmod><priority>0.8</priority></url>
+  <url><loc>https://www.selo.example/use-cases/</loc><xhtml:link rel="alternate" hreflang="en" href="https://www.selo.example/use-cases/"/><lastmod>2026-11-06</lastmod><priority>0.7</priority></url>
+  <url><loc>https://www.selo.example/customers/</loc><xhtml:link rel="alternate" hreflang="en" href="https://www.selo.example/customers/"/><lastmod>2026-11-06</lastmod><priority>0.4</priority></url>
+  <url><loc>https://www.selo.example/faq/</loc><xhtml:link rel="alternate" hreflang="en" href="https://www.selo.example/faq/"/><lastmod>2026-11-06</lastmod><priority>0.7</priority></url>
+  <url><loc>https://www.selo.example/about/</loc><xhtml:link rel="alternate" hreflang="en" href="https://www.selo.example/about/"/><lastmod>2026-11-06</lastmod><priority>0.5</priority></url>
+  <url><loc>https://www.selo.example/contact/</loc><xhtml:link rel="alternate" hreflang="en" href="https://www.selo.example/contact/"/><lastmod>2026-11-06</lastmod><priority>0.6</priority></url>
+  <url><loc>https://www.selo.example/security/</loc><xhtml:link rel="alternate" hreflang="en" href="https://www.selo.example/security/"/><lastmod>2026-11-06</lastmod><priority>0.5</priority></url>
+  <url><loc>https://www.selo.example/changelog/</loc><xhtml:link rel="alternate" hreflang="en" href="https://www.selo.example/changelog/"/><lastmod>2026-11-06</lastmod><priority>0.5</priority></url>
+  <url><loc>https://www.selo.example/blog/</loc><xhtml:link rel="alternate" hreflang="en" href="https://www.selo.example/blog/"/><lastmod>2026-11-06</lastmod><priority>0.5</priority></url>
+  <url><loc>https://www.selo.example/careers/</loc><xhtml:link rel="alternate" hreflang="en" href="https://www.selo.example/careers/"/><lastmod>2026-11-06</lastmod><priority>0.2</priority></url>
+  <url><loc>https://www.selo.example/press/</loc><xhtml:link rel="alternate" hreflang="en" href="https://www.selo.example/press/"/><lastmod>2026-11-06</lastmod><priority>0.2</priority></url>
+  <url><loc>https://www.selo.example/legal/privacy/</loc><xhtml:link rel="alternate" hreflang="en" href="https://www.selo.example/legal/privacy/"/><lastmod>2026-11-06</lastmod><priority>0.3</priority></url>
+  <url><loc>https://www.selo.example/legal/terms/</loc><xhtml:link rel="alternate" hreflang="en" href="https://www.selo.example/legal/terms/"/><lastmod>2026-11-06</lastmod><priority>0.3</priority></url>
+  <url><loc>https://www.selo.example/legal/dpa/</loc><xhtml:link rel="alternate" hreflang="en" href="https://www.selo.example/legal/dpa/"/><lastmod>2026-11-06</lastmod><priority>0.3</priority></url>
+  <url><loc>https://www.selo.example/legal/cookies/</loc><xhtml:link rel="alternate" hreflang="en" href="https://www.selo.example/legal/cookies/"/><lastmod>2026-11-06</lastmod><priority>0.3</priority></url>
+  <url><loc>https://www.selo.example/legal/acceptable-use/</loc><xhtml:link rel="alternate" hreflang="en" href="https://www.selo.example/legal/acceptable-use/"/><lastmod>2026-11-06</lastmod><priority>0.3</priority></url>
+</urlset>

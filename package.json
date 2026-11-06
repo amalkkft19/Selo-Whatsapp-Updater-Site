@@ -1,0 +1,18 @@
+{
+  "name": "selo-website",
+  "version": "1.0.0",
+  "description": "Selo marketing website",
+  "scripts": {
+    "build": "node build.mjs",
+    "build:files": "LINK_MODE=files OUT_DIR=dist-preview node build.mjs",
+    "build:flags": "SITE_FEATURES_ALL=true OUT_DIR=dist-flags node build.mjs",
+    "preview": "npx serve dist -l 8080"
+  },
+  "dependencies": {
+    "@fontsource/inter": "^5.3.0",
+    "@resvg/resvg-js": "^2.6.2",
+    "lucide-static": "^1.70.0"
+  },
+  "private": true,
+  "type": "module"
+}
